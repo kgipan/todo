@@ -1,5 +1,5 @@
 # todo
-<img src= "todo.png" width='300'/>
+<img src= "todo.jpg" width='300'/>
 
 ## Table of contents
 * [General info](#general-info)
